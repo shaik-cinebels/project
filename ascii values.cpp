@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//checking git 
 main()
 {
 	int i;
